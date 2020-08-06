@@ -1,1 +1,1 @@
-# This project is a html5 stereo viewer project
+# This is an html5 stereo viewer project
